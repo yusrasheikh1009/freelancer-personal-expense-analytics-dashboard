@@ -82,24 +82,19 @@ Business Intelligence
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Overview
-![alt text](<Screenshot 2026-05-17 122842.png>)
+![Dashboard](images/dashboard.png)
 
----
 ### 📈 Spender Type
-![alt text](<Screenshot 2026-05-17 122916.png>)
+![Spender](images/spender.png)
 
 ### 📈 Monthly Spending Trend
-![alt text](<Screenshot 2026-05-17 122857.png>)
-
----
+![Monthly Trend](images/monthly.png)
 
 ### 🟢 Budget vs Actual Analysis
-![alt text](<Screenshot 2026-05-17 122928.png>)
-
----
+![Budget](images/budget.png)
 
 ### 📄 Transaction Table View
-![alt text](<Screenshot 2026-05-17 122946.png>)
+![Transactions](images/table.png)
 
 ## 🖥️ Run Project
 
