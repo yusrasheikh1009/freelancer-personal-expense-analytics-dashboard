@@ -79,6 +79,27 @@ Business Intelligence
 ✔ Interactive dashboard visualizations  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Dashboard Overview
+![alt text](<Screenshot 2026-05-17 122842.png>)
+
+---
+### 📈 Spender Type
+![alt text](<Screenshot 2026-05-17 122916.png>)
+
+### 📈 Monthly Spending Trend
+![alt text](<Screenshot 2026-05-17 122857.png>)
+
+---
+
+### 🟢 Budget vs Actual Analysis
+![alt text](<Screenshot 2026-05-17 122928.png>)
+
+---
+
+### 📄 Transaction Table View
+![alt text](<Screenshot 2026-05-17 122946.png>)
 
 ## 🖥️ Run Project
 
@@ -88,24 +109,6 @@ python -m streamlit run src/app_streamlit.py
 Then open:
 http://localhost:8501
 
-## 📸 Screenshots
-
-### 🏠 Dashboard Overview
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 122842.png
----
-
-### 📈 Monthly Spending Trends
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 122857.png
----
-### 📈 Spender Type
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 122916.png
-
-### 🟢 Budget vs Actual Spending
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 122928.png
-
----
-### 📄 Transaction Data View
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-05-17 122946.png
 
 ⚠️ Important Notes
 Install dependencies:
